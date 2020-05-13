@@ -1,2 +1,3 @@
-# doc
-Introduction to GitHub
+# Introduction to GitHub
+
+https://github.com/ices-tools-dev/doc#introduction-to-github
